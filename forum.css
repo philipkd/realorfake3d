@@ -1,0 +1,9 @@
+body a, #rt-main-surround .rt-article-title, #rt-main-surround .title, #rt-showcase .title, #rt-showcase .showcase-title span, #rt-top .title, #rt-header .title, #rt-feature .title {color:#d276d6;}
+
+#rt-bottomtab {
+	display: none !important;
+}
+#rt-bottom {
+	background-color: #4B4B4B !important;
+	background-image: none !important;
+}
